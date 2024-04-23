@@ -1,5 +1,7 @@
 # filling_potholes
 
+Note: there is a [full write-up for this project on my blog](https://www.frank.computer/blog/2024/04/filling-potholes.html).
+
 In realspace, communities can come together to take action to repair the world around them. In Portland, [anarchists took action and began filling potholes](https://www.bloomberg.com/news/articles/2017-03-15/portland-anarchist-road-care-fixes-potholes-anonymously) that the city had continued to neglect. While the anarchists had a minor impact in the scale of potholes they filled (they only claimed to have fixed 5 total), they [pressured municipal officials to host a "patch-a-thon"](https://www.portland.gov/transportation/news/2017/2/24/news-release-pbot-launches-patch-thon-address-potholes-caused-winter) that resulted in more than 1000 fixed potholes.
 
 But in digital spaces, like on the web, we might "share" social media content with each other. However, we don't share the same material infrastructure in the same way realspace is shared. As the anarchists in Portland identified, ["coercive hierarchies" can often prevent direct action and repair in times of need](https://www.oregonlive.com/commuting/2017/03/why_portland_anarchists_are_pa.html).
