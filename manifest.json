@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Filling Potholes",
+  "description": "A class project about sharing in the repair of online barriers.",
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "js": ["app/index.js"],
+      "matches": [
+        "https://jakobnielsenphd.substack.com/*"
+      ]
+    }
+  ],
+  "permissions": [
+    "activeTab",
+    "scripting"
+ ]
+}
